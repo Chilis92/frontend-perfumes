@@ -1,0 +1,14 @@
+[
+    {
+        "id": "6624b55af86e2763b4e665aa",
+        "name": "blue chanell",
+        "description": "lala",
+        "enabled": true,
+        "price": 500,
+        "brand": "channel",
+        "file": {
+            "type": 0,
+            "data": ""
+        }
+    }
+]
